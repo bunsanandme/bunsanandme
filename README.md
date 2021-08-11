@@ -9,7 +9,7 @@ Hi, i'm Daniil Belov, freelance desktop application developer and machine learni
 I am happy to participate in an open source project, I am ready to receive and give knowledge.
 
 
-<img align="right" alt="GIF" src="https://github.com/bunsanandme/bunsanandme/blob/master/code.gif?raw=true" width="345" height="300" />
+<img align="right" alt="GIF" src="https://github.com/bunsanandme/bunsanandme/blob/master/code.gif?raw=true" width="340" height="295" />
 
 
 
