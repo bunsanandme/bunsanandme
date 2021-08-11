@@ -25,7 +25,7 @@ I am happy to participate in an open source project, I am ready to receive and g
   
 ### 📈 My github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bunsanandme&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bunsanandme&show_icons=true&theme=gotham" />
 
 <br />
 
