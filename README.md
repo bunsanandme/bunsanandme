@@ -4,7 +4,7 @@
 
 <br />
 
-Hi, i'm Daniil Belov, freelance desktop application developer and machine learning specialist from Russia. Third-year student of DSTU. I design and create my code for people, not for machines :)
+Hi, i'm Daniil Belov, backend developer and machine learning specialist from Russia. Fourth-year student of DSTU. I design and create my code for people, not for machines :)
 
 I am happy to participate in an open source project, I am ready to receive and give knowledge.
 
@@ -21,6 +21,7 @@ I am happy to participate in an open source project, I am ready to receive and g
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
   
 ### 📈 My github stats
