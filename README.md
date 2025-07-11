@@ -1,7 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! 
 
-![](https://visitor-badge.glitch.me/badge?page_id=bunsanandme.dunsanandme)
-
 <br />
 
 Hi, i'm Daniil Belov, backend developer and machine learning specialist from Russia. Master of Engineering. I design and create my code for people, not for machines :)
